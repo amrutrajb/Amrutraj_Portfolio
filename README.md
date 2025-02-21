@@ -3,7 +3,8 @@
 ![home page Pizza sales](https://github.com/user-attachments/assets/8c5b7a75-00d5-49a7-b6a2-bb69a0ca212f)
 
 ### Best_Worst seller Pizza Sales
-![Uploading Best_Worst seller Pizza Sales.JPG…]()
+![Best_Worst seller Pizza Sales](https://github.com/user-attachments/assets/e4a532d6-943e-4c81-be79-79528e69ce43)
+
 
 
 
