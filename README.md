@@ -1,6 +1,7 @@
 #Data Analytics Portfolio
 ## Pizza Sales Data Analysis Project
 ![home page Pizza sales](https://github.com/user-attachments/assets/8c5b7a75-00d5-49a7-b6a2-bb69a0ca212f)
+![Uploading Best_Worst seller Pizza Sales.JPG…]()
 
 
 Analyzed a pizza sales dataset to uncover insights into revenue, order trends, and product performance.
