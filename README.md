@@ -19,7 +19,19 @@ Identified peak sales on weekends and in specific months, with the Classic pizza
 Ola Ride Booking Analysis 
 
  ## Ola Ride Booking Analysis 
- 
+ ![page 1](https://github.com/user-attachments/assets/446df699-ea36-4b9d-8b96-dd20c1625fba)
+
+ ![page 2](https://github.com/user-attachments/assets/eded8648-a93a-4b47-91a3-9ca43faa68bd)
+
+ ![page 3](https://github.com/user-attachments/assets/90131e31-b922-420a-a742-5a34bfd827f2)
+
+ ![page 4](https://github.com/user-attachments/assets/c149c3d3-15a0-4677-9c2b-7c79049ae6c9)
+
+ ![page 5](https://github.com/user-attachments/assets/6e140b3d-9c17-4f18-a65c-d1bdc8713d22)
+
+
+
+
  
 
 
