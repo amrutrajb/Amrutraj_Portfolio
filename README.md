@@ -1,6 +1,5 @@
-# Amrutraj_Portfolio
-
-##Pizza Sales Data Analysis Project
+###Data Analytics Portfolio
+## Pizza Sales Data Analysis Project
 
 
 Analyzed a pizza sales dataset to uncover insights into revenue, order trends, and product performance.
@@ -9,7 +8,7 @@ Created best/worst seller charts, daily and monthly order trends, and category-w
 Identified peak sales on weekends and in specific months, with the Classic pizza category contributing the most to revenue and orders. Delivered a comprehensive sales report enabling data-driven decisions to optimize inventory and marketing strategies.
 Ola Ride Booking Analysis 
 
-#Ola Ride Booking Analysis 
+ # Ola Ride Booking Analysis 
 
 
 Performed comprehensive data analysis on 20,000+ Ola ride bookings to identify revenue, cancellation, and rating trends. Designed and optimized SQL queries for data extraction, transformation, and visualization.
