@@ -2,7 +2,11 @@
 ## Pizza Sales Data Analysis Project
 ![home page Pizza sales](https://github.com/user-attachments/assets/8c5b7a75-00d5-49a7-b6a2-bb69a0ca212f)
 
+### Best_Worst seller Pizza Sales
 ![Uploading Best_Worst seller Pizza Sales.JPG…]()
+
+
+
 
 
 Analyzed a pizza sales dataset to uncover insights into revenue, order trends, and product performance.
@@ -12,6 +16,8 @@ Identified peak sales on weekends and in specific months, with the Classic pizza
 Ola Ride Booking Analysis 
 
  ## Ola Ride Booking Analysis 
+ 
+ 
 
 
 Performed comprehensive data analysis on 20,000+ Ola ride bookings to identify revenue, cancellation, and rating trends. Designed and optimized SQL queries for data extraction, transformation, and visualization.
