@@ -32,7 +32,7 @@ Ola Ride Booking Analysis
 
 
 
-#📊 Sales Insights - Data Analysis Project
+📊 #Sales Insights - Data Analysis Project
 
 
 ![Sales insights Image](https://github.com/user-attachments/assets/bed278d1-1de0-438d-a7f5-93df36b175f0)
