@@ -32,52 +32,52 @@ Ola Ride Booking Analysis
 
 
 
-📊 #Sales Insights - Data Analysis Project
+# 📊 #Sales Insights - Data Analysis Project
 
 
 ![Sales insights Image](https://github.com/user-attachments/assets/bed278d1-1de0-438d-a7f5-93df36b175f0)
 
 
 
-##🚀 Project Overview
+## 🚀 Project Overview
 This project analyzes sales performance using Power BI, providing insights into revenue trends, top customers, and product performance. The goal is to optimize business strategy, improve sales forecasting, and enhance profitability using data-driven insights.
 
 
-##🎯 Project Objective
+## 🎯 Project Objective
 ✔ Analyze revenue trends from 2018 to 2020.
 ✔ Identify top-performing customers and products based on sales quantity and revenue.
 ✔ Evaluate customer types (Brick & Mortar vs. E-Commerce) to understand distribution patterns.
 ✔ Monitor sales performance by product type (Own Brand vs. Distribution).
 
 
-##📌 KPI Metrics & Insights
+## 📌 KPI Metrics & Insights
 📌 Total Sales: 2M
 📌 Total Revenue: 985M
 
-##📌 Revenue Trends:
+## 📌 Revenue Trends:
 ▫ Sales fluctuated between 100K and 400K per month, peaking around mid-2018 and mid-2019, followed by a slight decline in early 2020.
 
-##📌 Sales Amount by Customer Type:
+## 📌 Sales Amount by Customer Type:
 ▫ Brick & Mortar: 240M (24.4%)
 ▫ E-Commerce: 745M (75.6%)
 
-##📌 Customer Code by Product Type:
+## 📌 Customer Code by Product Type:
 ▫ Distribution: 38 Customers
 ▫ Own Brand: 38 Customers
 
-##📌 Top 5 Customers by Revenue:
+## 📌 Top 5 Customers by Revenue:
 ✔ Electricalsara Stores: 413.33M
 ✔ Electricalytical: 49.64M
 ✔ Excel Stores: 49.12M
 ✔ Premium Stores: 44.91M
 
-##📌 Top 5 Products by Revenue:
+## 📌 Top 5 Products by Revenue:
 ✔ Prod040: 19.3M
 ✔ Prod159: 15.11M
 ✔ Prod239: 10.99M
 ✔ Prod102: 10.66M
 
-##📌 Top 8 Customers by Sales Quantity:
+## 📌 Top 8 Customers by Sales Quantity:
 ✔ Electricalsara Stores: 654K
 ✔ Premium Stores: 279K
 ✔ Surge Stores: 176K
@@ -88,14 +88,14 @@ This project analyzes sales performance using Power BI, providing insights into 
 ✔ Electricalytical: 79K
 
 
-##📊 Dashboard Overview
+## 📊 Dashboard Overview
 📍 Revenue Trends: Line chart visualizing total sales over time (2018-2020).
 📍 Sales by Customer Type: Pie chart showing 75.6% of sales come from E-Commerce.
 📍 Product Type Distribution: Equal distribution of 38 customers in both Own Brand & Distribution.
 📍 Top Customers & Products: Bar charts showcasing revenue contributions.
 
 
-##📌 Key Insights & Takeaways
+## 📌 Key Insights & Takeaways
 ✔ E-Commerce Dominates: 75.6% of total sales come from online transactions.
 ✔ Electricalsara Stores Leads: Highest revenue generator among customers.
 ✔ Prod040 is the Best-Selling Product: Highest revenue among all products.
